@@ -1,21 +1,23 @@
-# Inbound Logistics Optimization
+# Inbound Logistics Network Optimization — Graduate Capstone Project
 
-## Project Description
-This project focuses on optimizing the inbound logistics processes to enhance efficiency and reduce costs in the supply chain.
+Graduate capstone project (OPRE 6367 | JSOM, UTD) analyzing a global apparel brand's inbound transportation network using real shipment data (company name withheld per NDA). Evaluated transit performance across major U.S. ports (Gulf Coast and West Coast), identified bottlenecks via root cause analysis, mapped international factory-to-port shipping routes, and delivered actionable recommendations to reduce delays and balance network load.
 
-## Graduate Capstone Project Details
-As part of the graduate capstone project, we aim to analyze various inbound logistics strategies and implement solutions that can be generalized across different industries.
+> ⚠️ Note: Company name and specific data withheld per NDA agreement.
 
 ## Key Findings
-- Improved efficiency in logistics operations by 15%.
-- Reduction in transportation costs by 10% through route optimization.
-- Enhanced data accuracy and real-time tracking capabilities.
+- Primary ports showed the highest transit time variability with significant outliers on select Asian origin routes
+- Secondary West Coast port identified as most consistent performer
+- Underutilized East Coast port flagged as a strategic opportunity for load redistribution
+- Year-over-year improvement confirmed across Gulf Coast operations
 
-## Tools and Skills
-- **Tools Used**: Python, R, SQL, Git, Tableau
-- **Skills Developed**: Data analysis, statistical modeling, optimization techniques, project management
+## Tools & Skills
+- Tableau (transit time charts, volume distribution, YoY comparison)
+- Microsoft Excel (mean, median, max, distribution modeling)
+- 80/20 Pareto Analysis
+- Root Cause Analysis (RCA)
+- Transit Time Distribution Modeling
+- Geographical Route Mapping
 
-## File References
-- Data analysis scripts are located in the `analysis` folder.
-- Visualization reports can be found in the `reports` directory.
-- Optimization models are stored in the `models` folder.
+## Files
+- `Ariat_Inbound_Report.pdf` — Full analytical report (sanitized)
+- `Ariat_Team_Presentation.pptx` — Final presentation deck (sanitized)

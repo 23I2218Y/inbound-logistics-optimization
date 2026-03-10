@@ -18,6 +18,3 @@ Graduate capstone project (OPRE 6367 | JSOM, UTD) analyzing a global apparel bra
 - Transit Time Distribution Modeling
 - Geographical Route Mapping
 
-## Files
-- `Ariat_Inbound_Report.pdf` — Full analytical report (sanitized)
-- `Ariat_Team_Presentation.pptx` — Final presentation deck (sanitized)
